@@ -1,0 +1,73 @@
+body{
+  background-image: url(backgroung3.jpg);
+  background-size: cover;
+}
+
+.container{
+  position: relative;
+  top: 60px;
+  width: 800px;
+  height: 800px;
+  background: lightgrey;
+  padding-left: 170px;
+  padding-right: 170px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px 10px 10px 10px;
+}
+
+.logo{
+  width: 250px;
+  position: relative;
+  top: 40px;
+}
+
+.logo-text{
+  font-size: 40px;
+  align-content: center;
+  color: lime;
+}
+
+.container{
+  width: 800px;
+  margin: auto;
+}
+
+#box2{
+  text-align: center;
+  margin-bottom: 20px;
+  position: relative;
+  bottom: 15px;
+}
+button{
+  position: relative;
+  top: 10px;
+}
+
+
+.opzione{
+  position: relative;
+  bottom: 20px;
+}
+
+.monopattino{
+  color: white;
+  font-size: 2rem;
+}
+
+p{
+  color: white;
+  font-size: 1rem;
+  position: relative;
+  bottom: 20px;
+}
+
+#batteria{
+  position: relative;
+  bottom: 40px;
+}
+
+#carica{
+  position: relative;
+  bottom: 50px;
+  border-radius: 10px 10px 10px 10px;
+}
